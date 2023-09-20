@@ -26,7 +26,7 @@ This is the machine learning practice
 - Gradient Boosting Regression
 - XGBoost
 - LightGBM Regressor
-- 
+
 ### Unsupervised Learning
 - Kmeans Cluster
 - Hierarchical Clustring
